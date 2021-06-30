@@ -1,4 +1,4 @@
 {
   "watch": ["src/index.ts"],
-  "exec": "export DETECT_LANG=1a50be3345778c04e3f268726ed72895 && ts-node ./src/index.ts"
+  "exec": "ts-node ./src/index.ts"
 }
